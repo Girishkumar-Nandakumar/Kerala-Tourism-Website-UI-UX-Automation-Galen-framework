@@ -31,15 +31,15 @@ Generated detailed HTML reports highlighting layout deviations
 
 🛠️ Tech Stack & Frameworks
 ---------------------------
-Category	| Tools & Technologies  |  	Description
-Visual UI Testing	🖼 |  Galen Framework (Java)	  |  Specialized framework for responsive and layout testing across devices
-Automation Engine	🧩 |  Selenium WebDriver	|  Powers browser automation and interaction for layout validation
-Specification Language	📐 |  Galen Specs	|  Human-readable syntax defining expected layout rules (e.g., alignment, spacing, containment)
-Test Runner	🧪 |  TestNG	|  Executes Galen tests and integrates with other automation modules
-Build Tool	⚙️ |  Maven	|  Handles dependencies, compilation, and execution tasks
-Report Generation	📊 |  Galen HTML Reports	|  Provides visual pass/fail summaries with screenshot evidence
-CI/CD Integration	🔁 |  GitHub Actions	|  Runs layout checks automatically on commits and pull requests
-Device Simulations	📱 |  Responsive Viewports	|  Tests layouts across desktop, tablet, and mobile breakpoints
+|  Category	| Tools & Technologies  |  	Description  |
+|  Visual UI Testing	🖼 |  Galen Framework (Java)	  |  Specialized framework for responsive and layout testing across devices  |
+|  Automation Engine	🧩 |  Selenium WebDriver	|  Powers browser automation and interaction for layout validation  |
+|  Specification Language	📐 |  Galen Specs	|  Human-readable syntax defining expected layout rules (e.g., alignment, spacing, containment)  |
+|  Test Runner	🧪 |  TestNG	|  Executes Galen tests and integrates with other automation modules  |
+|  Build Tool	⚙️ |  Maven	|  Handles dependencies, compilation, and execution tasks  |
+|  Report Generation	📊 |  Galen HTML Reports	|  Provides visual pass/fail summaries with screenshot evidence  |
+|  CI/CD Integration	🔁 |  GitHub Actions	|  Runs layout checks automatically on commits and pull requests  |
+|  Device Simulations	📱 |  Responsive Viewports	|  Tests layouts across desktop, tablet, and mobile breakpoints  |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
