@@ -31,7 +31,8 @@ Generated detailed HTML reports highlighting layout deviations
 
 🛠️ Tech Stack & Frameworks
 ---------------------------
-|  Category	| Tools & Technologies  |  	Description  |
+| Category | Tools & Technologies | Description |
+|-----------|---------------------|--------------|
 |  Visual UI Testing	🖼 |  Galen Framework (Java)	  |  Specialized framework for responsive and layout testing across devices  |
 |  Automation Engine	🧩 |  Selenium WebDriver	|  Powers browser automation and interaction for layout validation  |
 |  Specification Language	📐 |  Galen Specs	|  Human-readable syntax defining expected layout rules (e.g., alignment, spacing, containment)  |
