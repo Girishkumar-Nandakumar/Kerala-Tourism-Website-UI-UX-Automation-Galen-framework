@@ -1,4 +1,4 @@
-🎓 Software Testing Capstone Project: Kerala Tourism Web Application (Galen Framework – Java)
+🎯 Galen Framework Project — UI Layout & Responsive Testing
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Objective
