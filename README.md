@@ -1,11 +1,13 @@
 🎯 Galen Framework Project — UI Layout & Responsive Testing
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 🎯 Objective
 -------------
 To validate the visual layout, responsiveness, and cross-device consistency of the Kerala Tourism Website using the Galen Framework (Java) — a specialized tool for automated layout and responsive UI testing.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ✨ Project Highlights
 ----------------------
@@ -22,12 +24,14 @@ Generated detailed HTML reports highlighting layout deviations
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 🌐 Live Website
 -----------------
 
 🔗 Kerala Tourism Website (GitHub Pages)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🛠️ Tech Stack & Frameworks
 ---------------------------
@@ -43,6 +47,7 @@ Generated detailed HTML reports highlighting layout deviations
 |  Device Simulations	📱 |  Responsive Viewports	|  Tests layouts across desktop, tablet, and mobile breakpoints  |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🔍 Testing Scope
 ------------------
@@ -81,6 +86,7 @@ Report Type	Link / Status
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 🧠 Key Learnings
 ------------------
 Mastered Galen Specs syntax and responsive layout verification
@@ -90,6 +96,7 @@ Learned to validate alignment, spacing, and element positioning programmatically
 Understood how to integrate visual testing with Selenium-based automation
 
 Improved knowledge of responsive-design testing and visual QA reporting
+
 
 🏆 Project Outcomes
 --------------------
@@ -103,6 +110,7 @@ Ensured the application maintains its aesthetic and functional integrity across 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 🙌 Acknowledgments
 -------------------
 
@@ -110,6 +118,7 @@ I sincerely thank Ms. Sheena Rajan, our mentor, for her continuous support, expe
 Gratitude to our course coordinator, academic team, and the Open Source Testing Community for their invaluable tools and resources that made this learning journey possible.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ⭐ Repository Info
 -------------------
@@ -127,5 +136,6 @@ Gratitude to our course coordinator, academic team, and the Open Source Testing 
 🕹 CI/CD	GitHub Actions
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ⭐ If you found this project helpful, please give it a star on GitHub to support open learning!
