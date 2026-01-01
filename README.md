@@ -1,7 +1,6 @@
 🎯 Galen Framework Project — UI Layout & Responsive Testing
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 🎯 Objective
 -------------
 To validate the visual layout, responsiveness, and cross-device consistency of the Kerala Tourism Website using the Galen Framework (Java) — a specialized tool for automated layout and responsive UI testing.
